@@ -1,0 +1,25 @@
+{
+    "name": "tiktokfollowersgenerator/new",
+    "description": "TikTok Followers Generator Hack ",
+    "homepage": "https://github.com/dimoskimaned/tiktokfollowersgenerator/",
+	"keywords": ["Tiktok hack","Tiktok cheats"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CLICK Here TikTok Followers Generator Hack",
+            "homepage": "https://sanroku-online.com/tiktok-free-followers-generator-tik-tok-fans/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
